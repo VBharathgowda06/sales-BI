@@ -1,7 +1,7 @@
 # V.BHARATH POWER BI PROJECT
 
 ## 📊 Project Title:
-Sales and Performance Dashboard (Power BI)
+ECOMMERCE Sales and Performance Dashboard (Power BI)
 
 ## 👨‍💻 Developed By:
 V. Bharath  
