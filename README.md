@@ -58,6 +58,6 @@ This Power BI project visualizes and analyzes key sales and performance metrics 
 
 ## 📞 Contact:
 For queries or collaborations, feel free to contact:  
-📧 vbharath.dev@gmail.com  
-📱 +91-XXXXXXXXXX (optional)
+📧 vbharathgowda10@gmail.com  
+📱 +91-9353206078
 
